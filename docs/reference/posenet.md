@@ -258,7 +258,7 @@ poseNet.multiPose(?input);
 
 ## Demo
 
-No demos yet - contribute one today!
+https://randomwalkjapan.blogspot.com/2020/09/ml5poseneteasy-posenet-by-ml5.html
 
 ## Tutorials
 
