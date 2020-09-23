@@ -115,7 +115,7 @@ yolo.detect(?input, ?callback);
 
 ## Demo
 
-No demos yet - contribute one today!
+https://randomwalkjapan.blogspot.com/2019/10/yoloai-lets-play-on-yoloai-scene.html
 
 ## Tutorials
 
